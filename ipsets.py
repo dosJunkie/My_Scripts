@@ -249,7 +249,7 @@ class BlocklistsIpset:
                 "Priority": 0,
                 "Statement": {
                     "IPSetReferenceStatement": {
-                        "ARN": "arn:aws:wafv2:us-east-1:092333050644:global/ipset/feeds_dshield_org/5e81c7b1-e06c-47d7-a9e7-f93f839a5247"
+                        "ARN": ""
                     }
                 },
                 "Action": {
